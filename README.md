@@ -99,7 +99,7 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
 ---
 
 <p align="center">
-  <i>"A tecnologia está sempre evoluindo, e eu quero evoluir junto com ela."</i>
+  
 </p>
 
 <p align="center">
