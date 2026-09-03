@@ -30,6 +30,7 @@
 💻 Desenvolvimento de Software
 🤖 Automação
 🧠 Tecnologia e Inovação
+⚙️ Sistemas e Programação
 🚀 Desenvolvimento de Projetos
 ```
 
@@ -48,8 +49,18 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,assembly,git,github&theme=dark" />
 </p>
+
+### 💻 Linguagens
+- C
+- C++
+- Python
+- Assembly
+
+### 🔧 Ferramentas
+- Git
+- GitHub
 
 ---
 
@@ -57,7 +68,7 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumpelcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumpelcs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumpelcs&layout=compact&langs_count=7&hide=Java&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -73,9 +84,10 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
    → C
    → C++
    → Python
-   → Java
+   → Assembly
 
-🚀 Desenvolvendo projetos e adquirindo experiência em desenvolvimento de software.
+🚀 Desenvolvendo projetos e adquirindo experiência
+   em desenvolvimento de software e automação.
 ```
 
 ---
@@ -99,7 +111,7 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
 ---
 
 <p align="center">
-  
+  <i>"A tecnologia está sempre evoluindo, e eu quero evoluir junto com ela."</i>
 </p>
 
 <p align="center">
