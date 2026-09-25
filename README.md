@@ -17,8 +17,9 @@
 📚 Busco constantemente aprender novas tecnologias, desenvolver projetos e evoluir profissionalmente na área de tecnologia.
 
 🌎 **Idiomas:**
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Avançado (**C1**)
+
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Avançado (**C1**)
 
 📍 Santa Maria, Rio Grande do Sul, Brasil
 
@@ -49,18 +50,21 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,assembly,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,assembly,git,github&theme=dark" />
 </p>
 
 ### 💻 Linguagens
-- C
-- C++
-- Python
-- Assembly
+
+* C
+* C++
+* Python
+* JavaScript
+* Assembly
 
 ### 🔧 Ferramentas
-- Git
-- GitHub
+
+* Git
+* GitHub
 
 ---
 
@@ -84,6 +88,7 @@ Essas experiências contribuíram para o desenvolvimento das minhas habilidades 
    → C
    → C++
    → Python
+   → JavaScript
    → Assembly
 
 🚀 Desenvolvendo projetos e adquirindo experiência
